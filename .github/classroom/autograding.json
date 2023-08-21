@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Test",
-      "setup": "",
-      "run": "npm run test",
+      "name": "Grade",
+      "setup": "npm install",
+      "run": "npm test",
       "input": "",
       "output": "",
       "comparison": "included",
